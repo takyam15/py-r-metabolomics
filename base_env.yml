@@ -8,6 +8,7 @@ dependencies:
   - r-essentials
   - r-rlang
   - r-tidyverse
+  - r-rstan
   - r-brms
   - r-bayesplot
   - r-irkernel

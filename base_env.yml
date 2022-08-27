@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - bioconda
 dependencies:
-  - python=3.7
+  - python
   - r-base
   - r-essentials
   - r-rlang
@@ -11,6 +11,7 @@ dependencies:
   - r-rstan
   - r-brms
   - r-bayesplot
+  - r-anndata
   - r-irkernel
   - r-biocmanager
   - bioconductor-biocgenerics

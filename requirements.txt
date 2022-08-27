@@ -1,6 +1,5 @@
 jupyterlab
 ipywidgets
-mkl-service
 numpy
 pandas
 pandas-profiling

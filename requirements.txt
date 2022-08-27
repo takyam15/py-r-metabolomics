@@ -22,4 +22,5 @@ arviz
 numpyro
 jax
 pystan
+anndata
 streamlit

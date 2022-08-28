@@ -1,0 +1,15 @@
+name: met
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python
+  - r-base
+  - r-essentials
+  - r-rlang
+  - r-tidyverse
+  - r-rstan
+  - r-brms
+  - r-bayesplot
+  - r-anndata
+  - r-irkernel
